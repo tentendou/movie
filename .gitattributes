@@ -1,0 +1,17 @@
+*.mp4 filter=lfs diff=lfs merge=lfs -text
+mozaik6_3.mp4 filter=lfs diff=lfs merge=lfs -text
+/mag/mozaik6_3.mp4 filter=lfs diff=lfs merge=lfs -text
+/fudeji/NTF/collabo/khaos/jooointcar/JOOOINTWORLD/movie/mozaik6_2.mp4 filter=lfs diff=lfs merge=lfs -text
+/fudeji/NTF/collabo/khaos/jooointcar/JOOOINTWORLD/movie/mozaik6_3.mp4 filter=lfs diff=lfs merge=lfs -text
+houkin2.mp4 filter=lfs diff=lfs merge=lfs -text
+houkin.mp4 filter=lfs diff=lfs merge=lfs -text
+fudeji/NTF/collabo/jooointcar/JOOOINTWORLD/movie/hebi.mp4 filter=lfs diff=lfs merge=lfs -text
+fudeji/NTF/collabo/khaos/jooointcar/JOOOINTWORLD/movie/hebi.mp4 filter=lfs diff=lfs merge=lfs -text
+git[[:space:]]add[[:space:]]fudeji/NTF/collabo/khaos/jooointcar/JOOOINTWORLD/movie/hebi.mp4
+git[[:space:]]lfs[[:space:]]track[[:space:]]fudeji/NTF/collabo/khaos/jooointcar/JOOOINTWORLD/movie/hebi.mp4 filter=lfs diff=lfs merge=lfs -text
+fudeji/NTF/collabo/khaos/jooointcar/JOOOINTWORLD/movie.mp4 filter=lfs diff=lfs merge=lfs -text
+fudeji/NTF/collabo/khaos/jooointcar/JOOOINTWORLD/movie/hebi2.mp4 filter=lfs diff=lfs merge=lfs -text
+fudeji/NTF/collabo/jooointcar/JOOOINTWORLD/hebi.mp4 filter=lfs diff=lfs merge=lfs -text
+git[[:space:]]lfs[[:space:]]track[[:space:]]fudeji/NTF/collabo/jooointcar/JOOOINTWORLD/hebi.mp4 filter=lfs diff=lfs merge=lfs -text
+hebi.mp4 filter=lfs diff=lfs merge=lfs -text
+hebi2.mp4 filter=lfs diff=lfs merge=lfs -text
