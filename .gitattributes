@@ -12,6 +12,6 @@ git[[:space:]]lfs[[:space:]]track[[:space:]]fudeji/NTF/collabo/khaos/jooointcar/
 fudeji/NTF/collabo/khaos/jooointcar/JOOOINTWORLD/movie.mp4 filter=lfs diff=lfs merge=lfs -text
 fudeji/NTF/collabo/khaos/jooointcar/JOOOINTWORLD/movie/hebi2.mp4 filter=lfs diff=lfs merge=lfs -text
 fudeji/NTF/collabo/jooointcar/JOOOINTWORLD/hebi.mp4 filter=lfs diff=lfs merge=lfs -text
-git[[:space:]]lfs[[:space:]]track[[:space:]]fudeji/NTF/collabo/jooointcar/JOOOINTWORLD/hebi.mp4 filter=lfs diff=lfs merge=lfs -text
+git[[:space:]]lfs[[:space:]]track[[:space:]]fudeji/NTF/collabo/jooointcar/JOOOINTWORLD/singularity/singularity/作品/動画確認用/縦ver----singularity様展示作品.mp4 filter=lfs diff=lfs merge=lfs -text
 hebi.mp4 filter=lfs diff=lfs merge=lfs -text
 hebi2.mp4 filter=lfs diff=lfs merge=lfs -text
